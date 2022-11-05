@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://roman17.github.io/hia-test/
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic-develop
